@@ -67,12 +67,12 @@ cv2.destroyAllWindows()
 
 
 
-### Canny Edge detector output
+### <br/><br/><br/><br/><br/><br/><br/><br/>Canny Edge detector output
 <br/>![g2](https://user-images.githubusercontent.com/75235789/169962515-ea1a1c84-d98d-4340-913d-66bc27b9afe9.jpg)
 
 
 
-### Display the result of Hough transform
+### <br/><br/>Display the result of Hough transform
 <br/>![g3](https://user-images.githubusercontent.com/75235789/169962529-6f181531-5131-41d7-88c8-9f7156df2467.jpg)
 
 
